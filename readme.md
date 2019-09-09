@@ -4,8 +4,8 @@
 ### Objetivo
 Ler uma imagem captcha em .pgm e retornar a sequência númerica alí descrita
 
-###Como utilizar
-1 Compilar o arquivo: 
+### Como utilizar
+1- Compilar o arquivo: 
 ```
 gcc main.c -o main
 ```
